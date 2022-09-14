@@ -1,0 +1,35 @@
+﻿  Timber.cpp
+C:\Timber\Timber\Timber.cpp(115,46): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Timber\Timber\Timber.cpp(115,27): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Timber\Timber\Timber.cpp(117,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Timber\Timber\Timber.cpp(171,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Timber\Timber\Timber.cpp(359,66): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Timber\Timber\Timber.cpp(359,50): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Timber\Timber\Timber.cpp(372,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Timber\Timber\Timber.cpp(370,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Timber\Timber\Timber.cpp(387,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Timber\Timber\Timber.cpp(392,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Timber\Timber\Timber.cpp(410,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Timber\Timber\Timber.cpp(413,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Timber\Timber\Timber.cpp(429,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Timber\Timber\Timber.cpp(436,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Timber\Timber\Timber.cpp(455,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Timber\Timber\Timber.cpp(459,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Timber\Timber\Timber.cpp(476,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Timber.vcxproj -> C:\Timber\Timber\x64\Debug\Timber.exe
